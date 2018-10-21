@@ -1,1 +1,1 @@
-# map-mania-v2
+# kwintynpmap
